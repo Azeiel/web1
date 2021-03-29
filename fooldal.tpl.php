@@ -1,13 +1,11 @@
  <link rel="stylesheet" href="css/style.css">
-   <div class="row">
-
-</div>
+   
 	
 <div class="container">
 
  
 	    <div class="row">
-        <div class="col-md-12">
+        
 				
             <div class="card">
                 <div class="card-body">
@@ -30,46 +28,45 @@
 				<p id="bekezdes1">Hajtja a kíváncsiság, de még nem teljesen ura saját mozgásának. Ez közvetlen vészhelyzetet teremthet: a kicsi leeshet, résekbe beszorulhat. Egyszer csak elér olyan dolgokat, amelyeket korábban nem, és azt gondoltuk, hogy azok nem is veszélyeztetik. A kisgyereknek meg kell tapasztalnia, fel kell fedeznie a világot. A mi felelősségünk, hogy ez biztonságos környezetben történjen.</p>
 				<br>
 
-<div class="container">
 <div class="row justify-content-center">
-       <div class="col-7">
+      
 <iframe width="500" height="315" src="https://www.youtube.com/embed/2-fBzGhNOZ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-</div>
+
 <br>
+
 <div class="row justify-content-center">
-       <div class="col-7">
+     
 <video width="500" height="315" controls> <source src="./video/gyermekvid.mp4" type="video/mp4"> </video>
 </div>
-</div>
-</div>
+
+
 <br>
-<div class="container">
+
 <div class="row justify-content-center">
-       <div class="col-4">
+      
 			 <img  id="TextWrap" src="./images/tanfolyam.jpg" align=center width=500 height=700>
 		</div>
-</div>
+
        <div class="row justify-content-center">
-	   <div class="col-4">
+	  
 			 <img  id="TextWrap" src="./images/kutya.jpg" align=center width=500 height=700>
 		</div>
-</div>
-</div>
 
-<div class="container">
-  <div class="row">
+
+
+  <div class="row justify-content-center">
 <h3><strong>Köszönjük bizalmukat</strong></h3>  <br>
   </div>
-   <div class="row">
-    <div class="col-sm">
+  
+<div class="row justify-content-center">
 <p id="bekezdes1">A Gyermekmentő Alapítvány az egyik legtámogatottabb szervezet az országban, ez az Önök érdeme is! Az 1%-os SZJA felajánlásoknak és az adományozó cégeknek köszönhetően nagyon sok krónikus és súlyos beteg gyermeknek tudunk segítséget nyújtani, ezen kívül gyermekkórházak fejlesztését, kutatásokat és orvosi készülékeket is finanszírozunk. Mindez igazi összefogás nélkül nem jöhetett volna létre, hálásak vagyunk! A Gyermekmentő Alapítvány immár 15. éve nyújt segítséget! A gyermekmentés számunkra a legfontosabb. Sajnos az adózók 50%-a ma inkább az államnak adja az adó 1 százalék -át, minthogy azt nemes célra szánná, például prevencióra, kutatásra, kórházak fejlesztésére, a beteg gyermekek, illetve családjaik segítésére, megmentésére.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SLeQBMp97HM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 </div>	
 <br>
 
-	<div class="container">
+	
   <div class="row">
  
  <h3><strong><em>Adó 1 százalék felajánlás</em></strong></h3><br><br>
@@ -93,11 +90,12 @@ Gombár Györgyi<br>
 
 </div>	
 			 </div>
-			 </div>
+			
 		<a id="l" href="http://www.gyermekmento.eu/">Link az eredeti oldalra</a>
-			</div>
-            </div>
+			
+            
 				
         </div>
+		</div>
     </div>
 </div>
